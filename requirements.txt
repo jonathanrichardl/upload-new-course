@@ -1,0 +1,4 @@
+tkinter
+gtts
+sqlalchemy
+pymysql

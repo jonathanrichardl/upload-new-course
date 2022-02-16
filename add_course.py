@@ -40,7 +40,7 @@ def main():
     course_name = input("Insert Course Name: ")
     print("Insert your course thumbnail (Image file): ")
     course_thumbnail = pick_course_thumbnail()
-    num_of_modules = int(input('How many Modules?'))
+    num_of_modules = int(input('How many Modules: '))
     modules = []
     for _ in range(num_of_modules):
         print('Module 1')
